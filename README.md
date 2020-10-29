@@ -1,73 +1,33 @@
 🇺🇸
+<p align="center">
+  <img src=".readme/icone.png" width="180px;" height="180px;" />
+</p>
 
-![Header](.readme/header.png)
+# Julinho's Life
 
-# Repository Name
+> ⚠️ This repository uses the **brasilian portuguese** language in some parts of the code and and the README. Get in touch if you have any questions.
 
-> ⚠️ This repository uses the **brasilian portuguese** language in some parts of the code and in some parts of the README. Get in touch if you have any questions.
+![License](https://img.shields.io/github/license/isabellanunes/bcc-julinhos-life?style=flat-square)
+![GitHub language count](https://img.shields.io/github/languages/count/isabellanunes/bcc-julinhos-life?style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/isabellanunes/bcc-julinhos-life?style=flat-square)
+![Last commit](https://img.shields.io/github/last-commit/isabellanunes/bcc-julinhos-life?style=flat-square)
+[![Made by](https://img.shields.io/badge/made%20by-isabellanunes-green?style=flat-square)](https://www.linkedin.com/in/isabellanunes/)
 
-<br />
+This is a personal project using Arduino and sensors for monitoring the temperature of my home office and control de hummidity of the plants that lives in my desk (no, they aren't Cactus 🌵).
 
-![License](https://img.shields.io/github/license/isabellanunes/rocketseat-starter-js?style=flat-square)
-![GitHub language count](https://img.shields.io/github/languages/count/isabellanunes/rocketseat-starter-js?style=flat-square)
-![GitHub repo size](https://img.shields.io/github/repo-size/isabellanunes/rocketseat-starter-js?style=flat-square)
-![Last commit](https://img.shields.io/github/last-commit/isabellanunes/rocketseat-starter-js?style=flat-square)
-[![Made by](https://img.shields.io/badge/made%20by-isabellanunes-green)](https://www.linkedin.com/in/isabellanunes/)
-
-Here we put some description about the repository.
-
-> Reference if needed with link
-
-<br />
-
-## Table of Content
-
-- [Item 1](#item1)
-  - [Subitem 1](#item1-1)
-  - [Subitem 2](#item1-2)
-  - [Subitem 3](#item1-3)
-- [Item 2](#item2)
-- [Item 3](#item3)
-- [Item 4](#item4)
-- [Item 5](#item5)
-
-<br />
-
-## 🛠️ Used Technology
-
-- [HTML]()
-- [CSS]()
-- [JavaScript]()
-
-<br />
-
-<h2 id="item1">Item 1</a>
-<h3 id="item1-1">Sub-item 1</a>
-<h3 id="item1-2">Sub-item 2</a>
-<h3 id="item1-3">Sub-item 3</a>
-<h2 id="item2">Item 2</a>
-<h2 id="item3">Item 3</a>
-<h2 id="item4">Item 4</a>
-<h2 id="item5">Item 5</a>
-
-<br />
+> Visit if you want to know more about [Arduino](https://www.arduino.cc/)
 
 ## Project Status
 
-### 🚧    Em construção    🚧
+### 🚧 Under construction 🚧
 
-</h3>
+## To-do List
 
-### To-do List
-
-- [x] Item 1
-- [x] Item 2
-- [ ] Item 3
-- [ ] Item 4
-
-## Dependencies
-
-## How to Run
+- [x] Temperature Arduino code
+- [x] Humidity Arduino code
+- [ ] Adapt board project to wireless support (no serial)
+- [ ] REST API
+- [ ] React Native Application
 
 ***
 
@@ -78,7 +38,7 @@ Here we put some description about the repository.
 <b>Isabella de Freitas Nunes</b> <br />
 A girl who loves teaching and learning algorithms, theory of computation and coding.
 
-Entre em contato! 👋
+Get in touch! 👋
 
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/isabellanunes/)
 [![Gmail](https://img.shields.io/static/v1?label=&message=isabelladefreitasnunes@gmail.com&color=red&style=flat-square&logo=Gmail&logoColor=white)](mailto:isabelladefreitasnunes@gmail.com)
@@ -89,83 +49,42 @@ Entre em contato! 👋
 
 ![Header](.readme/header.png)
 
-# Nome do repositório
+# Monitor de temperatura e umidade do Home office
 
-> ⚠️ Este repositório usa o **português brasileiro** em algumas partes do código bem como do README. Entre em contato no caso de qualquer dúvida.
-
-<br />
+> ⚠️ Este repositório usa o **português brasileiro** em algumas partes do código e no README. No caso de dúvidas entre em contato.
 
 ![License](https://img.shields.io/github/license/isabellanunes/rocketseat-starter-js?style=flat-square)
 ![GitHub language count](https://img.shields.io/github/languages/count/isabellanunes/rocketseat-starter-js?style=flat-square)
 ![GitHub repo size](https://img.shields.io/github/repo-size/isabellanunes/rocketseat-starter-js?style=flat-square)
 ![Last commit](https://img.shields.io/github/last-commit/isabellanunes/rocketseat-starter-js?style=flat-square)
-[![Made by](https://img.shields.io/badge/made%20by-isabellanunes-green)](https://www.linkedin.com/in/isabellanunes/)
+[![Made by](https://img.shields.io/badge/made%20by-isabellanunes-green?style=flat-square)](https://www.linkedin.com/in/isabellanunes/)
 
-Descrição do repositório aqui.
+Este é um projeto pessoal usando Arduino e sensores para monitorar a temperatura do meu home office, assim como verificar a umidade das plantas que moram na minha mesa de trabalho (não, não são cactos 🌵).
 
-> Referência do assunto do repositório aqui
+> Visite se quiser conhecer mais sobre o [Arduino](https://www.arduino.cc/)
 
-<br />
+## Status do Projeto
 
-## Índice
+### 🚧 Em construção 🚧
 
-- [Item 1](#item1)
-  - [Subitem 1](#item1-1)
-  - [Subitem 2](#item1-2)
-  - [Subitem 3](#item1-3)
-- [Item 2](#item2)
-- [Item 3](#item3)
-- [Item 4](#item4)
-- [Item 5](#item5)
+## A fazer
 
-<br />
-
-## 🛠️ Tecnologias usadas
-
-- [HTML]()
-- [CSS]()
-- [JavaScript]()
-
-<br />
-
-<h2 id="item1">Item 1</a>
-<h3 id="item1-1">Sub-item 1</a>
-<h3 id="item1-2">Sub-item 2</a>
-<h3 id="item1-3">Sub-item 3</a>
-<h2 id="item2">Item 2</a>
-<h2 id="item3">Item 3</a>
-<h2 id="item4">Item 4</a>
-<h2 id="item5">Item 5</a>
-
-<br />
-
-## Project Status
-
-### 🚧    Em construção    🚧
-
-</h3>
-
-### To-do List
-
-- [x] Item 1
-- [x] Item 2
-- [ ] Item 3
-- [ ] Item 4
-
-## Dependencies
-
-## How to Run
+- [x] Código do Arduino para monitorar a temperatura
+- [x] Código do Arduino para monitorar a umidade
+- [ ] Adaptar o projeto para wireless (dispensar o uso do cabo serial)
+- [ ] API REST
+- [ ] Aplicação em React Native
 
 ***
 
-## Author
+## Autora
 
 <img style="border-radius: 100%;" src=".readme/isa.jpg" width="110px;" height="110px;"/>
 
 <b>Isabella de Freitas Nunes</b> <br />
-A girl who loves learning about algorithms, theory of computation and coding.
+Uma menina que gosta de ensinar e aprender algoritmos, teoria da computação e programação.
 
-Entre em contato! 👋
+Vamos conversar! 👋
 
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/isabellanunes/)
 [![Gmail](https://img.shields.io/static/v1?label=&message=isabelladefreitasnunes@gmail.com&color=red&style=flat-square&logo=Gmail&logoColor=white)](mailto:isabelladefreitasnunes@gmail.com)
