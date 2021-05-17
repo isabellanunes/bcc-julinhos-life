@@ -12,24 +12,23 @@
 <br />
 
 <p align="center">
-    <img src=".readme/logo.png" width="150px" />
+    <img src=".readme/image01.png" width="120px" />
 </p>
 
 <br />
 
-## Technologies
-
+## Technologies and requirements
 - Unity3D
 - C#
 
 ## Project
-
-In this repository are a game colled Julinho's Life developed for a work of Computer Graphics II class of the Bachelor's on Computer Science. The purpose was to make a game which simuletes the life of my cat, he rans arround the backard of my house searching for [Whiskas](https://www.whiskas.com/) and coins (for buying more wet food).
+This is a game colled Julinho's Life developed for a work of Computer Graphics II class of the Bachelor's on Computer Science. The purpose was to make a game which simuletes the life of my cat, he rans arround the backard of my house searching for [Whiskas](https://www.whiskas.com/) and coins (for buying more wet food). You can view a [demo here](https://youtu.be/BmGpO5kDqkI).
 
 ## Run
-
 You need to download Unity3D and run inside of the app.
 
-## License
+## Status
+In progress 🚧
 
-This project is under the CC BY-SA 4.0. See [LICENSE](/LICENSE.md) file for more details.
+## License
+This project is under the MIT License. See [LICENSE](/LICENSE.md) file for more details.
